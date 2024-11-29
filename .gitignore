@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -44,3 +45,6 @@ next-env.d.ts
 =======
 node_modules
 >>>>>>> 0392402 (Initial commit for portfolio website)
+=======
+node_modules
+>>>>>>> 0392402c3cd6852f1e4cb05c224e63c73e7ccaea
