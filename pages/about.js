@@ -17,7 +17,10 @@ export default function About() {
       <main>
         <section>
           <h2>Who I Am</h2>
-          <p>I'm a passionate developer who loves coding and problem-solving. I have a background in web development and enjoy learning new technologies.</p>
+          <p>I am a recently graduated computer engineer with a passion for web development.
+          I work with HTML, CSS, JavaScript, and React, and I'm learning Node.js.
+          As a beginner in this field, I am eager to learn, and build dynamic, responsive websites.
+          </p>
         </section>
       </main>
     </div>

@@ -17,11 +17,11 @@ export default function Projects() {
       <main>
         <section>
           <h2>Project 1</h2>
-          <p>Project description goes here. This is a brief overview of what the project is about.</p>
+          <p>Recently unavailable.</p>
         </section>
         <section>
           <h2>Project 2</h2>
-          <p>Project description goes here. This is another project that showcases my skills and experience.</p>
+          <p>Unavailable.</p>
         </section>
       </main>
     </div>
