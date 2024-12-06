@@ -24,7 +24,7 @@ export default function Home() {
       <main>
         <section>
           <h2>Introduction</h2>
-          <p>Hello! I'm a developer passionate about building web applications.</p>
+          <p>Hello! I am a developer passionate about building web applications.</p>
         </section>
       </main>
       <footer>
